@@ -1,4 +1,5 @@
 const cartItems = [
+
   {
     id: 'rec1JZlfCIBOPdcT2',
     title: 'Samsung Galaxy S8',
